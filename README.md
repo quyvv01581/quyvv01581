@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @quy
 - 👀 I’m interested in few things
 - 🌱 I’m currently learning something
-- 💞️ I’m looking to collaborate on something
+- 🌱 I’m not afraid of anything
+- 💞️ I’m looking to collaborate with someone
 - 📫 How to reach me ↓
 
 <!---
