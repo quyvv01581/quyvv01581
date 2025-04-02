@@ -5,7 +5,7 @@
 - 🔄 I’m opening to **Anything** life throws my way
 - 😨 I’m afraid of **Nothing**
 - 🎯 I want to achieve **Everything**
-- 📫 **Everyone** can reach me ↓
+- 📫 **Everyone** is welcome to reach out to me
 
 <!---
 quyvv01581/quyvv01581 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
