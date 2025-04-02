@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @quy
-- 👀 I’m interested in few things
-- 🌱 I’m currently learning something
-- 🌱 I’m not afraid of anything
-- 💞️ I’m looking to collaborate with someone
-- 📫 How to reach me ↓
+- 👋 Hi, I’m **Someone**
+- 💞️ I’m looking to collaborate with **Anyone**
+- 🚫 **Noone** can stop me from trying
+- 👀 I’m looking for **Something**
+- 🔄 I’m opening to **Anything** life throws my way
+- 😨 I’m afraid of **Nothing**
+- 🎯 I want to achieve **Everything**
+- 📫 **Everyone** can reach me ↓
 
 <!---
 quyvv01581/quyvv01581 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
